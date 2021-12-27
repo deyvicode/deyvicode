@@ -5,6 +5,4 @@ I'm a Software Developer working in Huánuco, Perú.
 - 🔭 I’m currently working on **ImaginaticsPeru**
 - ⚙ I use daily: .php, .js, .html, .css
 - 🌱 I’m currently learning ReactJS and VueJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Multitenant on Backend
 - 💬 Ask me about Web Development
