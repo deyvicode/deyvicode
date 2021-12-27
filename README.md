@@ -19,6 +19,6 @@ I'm a Software Developer working in Huánuco, Perú.
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
 [![JQUERY Badge](https://img.shields.io/badge/-JQUERY-007acc?style=for-the-badge&labelColor=white&logo=jquery&logoColor=007acc)](https://jquery.com/)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7C12FA?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=7C12FA)](https://getbootstrap.com/)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-E72A15?style=for-the-badge&labelColor=white&logo=laravel&logoColor=E72A15)](https://www.figma.com/)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-E72A15?style=for-the-badge&labelColor=white&logo=laravel&logoColor=E72A15)](https://laravel.com/)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&labelColor=white&logo=firebase&logoColor=ffca28)](https://firebase.google.com/)
 [![Mysql Badge](https://img.shields.io/badge/-MYSQL-00618B?style=for-the-badge&labelColor=white&logo=mysql&logoColor=00618B)](https://www.mysql.com/)
