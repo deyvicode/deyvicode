@@ -3,7 +3,7 @@
 I'm a Software Developer working in Huánuco, Perú.
 
 - 🔭 I’m currently working on **Red de Salud Huánuco**
-- ⚙ I use daily: .php, .js, .html, .css
+- ⚙ I use daily: .php, .js, .html, .css, .sql
 - 🌱 I’m currently learning **ReactJS** and **VueJS**
 - 💬 Ask me about Web Development
 
