@@ -1,10 +1,9 @@
-## Hi I'm Deyvi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Deyvi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi">
 
 I'm a Software Developer working in Huánuco, Perú.
 
-- 🔭 I’m currently working on **Red de Salud Huánuco**
 - ⚙ I use daily: .php, .js, .html, .css, .sql
-- 🌱 I’m currently learning **ReactJS** and **VueJS**
+- 🌱 I’m currently learning **UX/UI** and **C#**
 - 💬 Ask me about Web Development
 
 ## Technologies
@@ -18,6 +17,8 @@ I'm a Software Developer working in Huánuco, Perú.
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org/)
 [![JQUERY Badge](https://img.shields.io/badge/-JQUERY-007acc?style=for-the-badge&labelColor=white&logo=jquery&logoColor=007acc)](https://jquery.com/)
+[![VueJS Badge](https://img.shields.io/badge/-VueJS-4EB386?style=for-the-badge&labelColor=white&logo=vuedotjs&logoColor=4EB386)](https://vuejs.org/)
+[![ReactJS Badge](https://img.shields.io/badge/-REactJS-61DAFB?style=for-the-badge&labelColor=white&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7C12FA?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=7C12FA)](https://getbootstrap.com/)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-E72A15?style=for-the-badge&labelColor=white&logo=laravel&logoColor=E72A15)](https://laravel.com/)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&labelColor=white&logo=firebase&logoColor=ffca28)](https://firebase.google.com/)
