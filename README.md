@@ -3,7 +3,7 @@
 I'm a Software Developer working in Huánuco, Perú.
 
 - ⚙ I use daily: .php, .js, .html, .css, .sql
-- 🌱 I’m currently learning **UX/UI** and **C#**
+- 🌱 I’m currently learning **Python** and **C#**
 - 💬 Ask me about Web Development
 
 ## Technologies
@@ -23,3 +23,4 @@ I'm a Software Developer working in Huánuco, Perú.
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-E72A15?style=for-the-badge&labelColor=white&logo=laravel&logoColor=E72A15)](https://laravel.com/)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&labelColor=white&logo=firebase&logoColor=ffca28)](https://firebase.google.com/)
 [![Mysql Badge](https://img.shields.io/badge/-MYSQL-00618B?style=for-the-badge&labelColor=white&logo=mysql&logoColor=00618B)](https://www.mysql.com/)
+[![SqlServer_Badge](https://img.shields.io/badge/-SQL_Server-0078d4?style=for-the-badge&labelColor=white&logo=Microsoft%20SQL%20Server&logoColor=red)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
