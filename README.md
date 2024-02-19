@@ -3,7 +3,7 @@
 I'm a Software Developer working in Huánuco, Perú.
 
 - ⚙ I use daily: .php, .js, .html, .css, .sql
-- 🌱 I’m currently learning **Python** and **C#**
+- 🌱 I’m currently learning **Data Engineering**
 - 💬 Ask me about Web Development
 
 ## Technologies
